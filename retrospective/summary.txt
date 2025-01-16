@@ -1,0 +1,3 @@
+The merge conflict was resolved by making space. The working branch and test branch shared a txt file, by removing the file from the working branch to make room for the same txt file to be share via the the test branch, the merge conflict was resolved.
+
+In C1, the three changes made were adding a personalized header with my name to the NPR.html, adding a header advertising new comics to the "comic web page.html" and adding a "welcome" header to the "WGU student portal.html"
